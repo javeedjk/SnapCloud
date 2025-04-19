@@ -1,0 +1,10 @@
+# https://pypi.org/project/flask
+Flask
+
+# https://pypi.org/project/gunicorn
+gunicorn
+
+google-cloud-storage
+google-auth
+
+google-generativeai
